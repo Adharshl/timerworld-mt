@@ -1,0 +1,16 @@
+.placeholder-glow .placeholder {
+  display: block;
+  height: 14px;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.card {
+  border: 1px solid #ccc;
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
